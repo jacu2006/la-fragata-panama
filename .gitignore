@@ -1,0 +1,32 @@
+# Dependencias
+node_modules/
+
+# Compilación y cobertura
+build/
+dist/
+coverage/
+
+# Variables de entorno y secretos locales
+.env
+.env.local
+.env*.local
+.env*
+!.env.example
+
+# Archivos temporales del sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.swp
+*.swo
+*~
+
+# Carpetas internas / caché de desarrollo
+.aistudio/
+.antigravity/
+.gmp_cache/
+.vscode/
