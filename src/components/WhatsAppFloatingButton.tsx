@@ -7,7 +7,7 @@ export function WhatsAppFloatingButton() {
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Consultar disponibilidad y reservar por WhatsApp en La Fragata Panamá"
-      className="group fixed bottom-5 right-5 sm:bottom-6 sm:right-6 z-40 inline-flex items-center gap-2.5 rounded-full bg-[#25D366] hover:bg-[#1EBE5D] text-white px-4 py-3 sm:px-5 sm:py-3.5 shadow-lg shadow-black/25 transition-all duration-200 hover:-translate-y-0.5 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#141311]"
+      className="group fixed bottom-14 right-5 sm:bottom-14 sm:right-6 z-40 inline-flex items-center gap-2.5 rounded-full bg-[#25D366] hover:bg-[#1EBE5D] text-white px-4 py-3 sm:px-5 sm:py-3.5 shadow-lg shadow-black/25 transition-all duration-200 hover:-translate-y-0.5 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#141311]"
     >
       {/* Subtle pulse ring */}
       <span
